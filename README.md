@@ -21,7 +21,7 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gui-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/757754132470956042/894675548587032706/picasion.com_1be647c83296142e957953d348c23dd7.gif">
+  <img align="right" alt="Gui-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/627318522795786250/894740294115926036/GIF_ANIMADO.gif">
 </div>
                                                                                  
 ##
