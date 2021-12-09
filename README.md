@@ -5,7 +5,6 @@
 - 🔭 Atualmente trabalho como Desginer Gráfico
 - 🌱 Estudando Engenharia de Software
 - 📫 Contate-me no email: negociosguispindler@gmail.com
-- 😄 Pronouns: ele/dele
 
 <img align="right" alt="Gui-Gif" height="180" style="border-radius:80px;" src="https://cdn.discordapp.com/attachments/627318522795786250/894740294115926036/GIF_ANIMADO.gif">
 
