@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como Desginer Gráfico
+- 🔭 Atualmente trabalho como Designer Gráfico
 - 🌱 Estudando Desenvolvimento de Software
 - 📫 Contate-me no email: negociosguispindler@gmail.com
 
