@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho como Dev Full Stack
-- 🌱 Estudando Python Full Stack
+- 🔭 Atualmente trabalho como Desginer Gráfico
+- 🌱 Estudando Engenharia de Software
 - 📫 Contate-me no email: negociosguispindler@gmail.com
 - 😄 Pronouns: ele/dele
 
