@@ -46,8 +46,4 @@
 
 </p>
 
-##
-    
-  ![Snake animation](https://github.com/guilhermespindler/guilhermespindler/blob/output/github-contribution-grid-snake.svg)
-   
  </div>
