@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como Assistente de T.I
+- 🔭 Atualmente trabalho como Técnico de T.I
 - 🌱 Estudando Ciência da Computação
 - 📫 Contate-me no email: negociosguispindler@gmail.com
 
