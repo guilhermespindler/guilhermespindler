@@ -23,7 +23,7 @@
 
 
 ## 📊 Statistics
-[![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=guilhermespindler&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Guilherme's github stats]([https://github-readme-stats.vercel.app/api?username=guilhermespindler&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true))
 
   
                                                                                  
